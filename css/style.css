@@ -191,7 +191,7 @@ a:hover {
   margin: 1.5em 0;
 }
 .post .post-content {
-  text-align: justify;
+  text-align: left;
 }
 .post .post-content a {
   border-bottom: 1px dotted;
